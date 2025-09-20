@@ -12,7 +12,7 @@ I am 2nd year BCA Student<br>I am a self learned Skilled Data Analyst <br>I am e
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CorvusCell&theme=dark&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CorvusCell&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CorvusCell&theme=dark&hide_border=false&layout=compact&langs_count=8)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
