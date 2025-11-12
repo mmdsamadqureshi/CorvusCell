@@ -36,7 +36,7 @@
 | [**Sales Insights Dashboard**](#) | Interactive Power BI dashboard revealing key revenue and customer trends | Power BI, Excel, SQL |
 | [**Customer Churn Prediction**](#) | ML model predicting customer retention | Python, Scikit-Learn |
 | [**Text Summarizer App**](#) | NLP app using transformers for intelligent text summarization | Python, Hugging Face |
-
+!>
 ---
 
 ### 🌐 Connect With Me  
