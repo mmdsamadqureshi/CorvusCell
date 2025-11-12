@@ -1,22 +1,51 @@
-# 💫 Briefy i am:
-I am 2nd year BCA Student<br>I am a self learned Skilled Data Analyst <br>I am expert in mySQL, PowerBI, MS Excel
+# 👋 Hi, I'm Samad  
+🎯 **Aspiring Data Analyst & Machine Learning Engineer** | BCA Student  
 
-
-## 🌐 Find me here:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fanwritex) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/muhammadsamadqureshi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@fanwritex) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mmd.samad.qureshi@gmail.com)
-
-# 💻 Technology Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-<!-- 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=CorvusCell&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=CorvusCell&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CorvusCell&theme=dark&hide_border=false&layout=compact&langs_count=8)
--->
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+💡 Passionate about extracting insights from data, building intelligent systems, and exploring Generative AI.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=CorvusCell&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🧰 Tech Stack  
+**Languages:** Python, SQL, C  
+**Libraries & Tools:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, TensorFlow (learning), Power BI  
+**Other Skills:** Data Cleaning • EDA • Visualization • ML Modeling • Prompt Engineering  
+
+---
+
+### 📈 What I’m Working On  
+- 🧠 Machine Learning projects (predictive modeling & automation)  
+- 📊 Data storytelling through visual dashboards  
+- 🤖 Generative AI + LLM applications  
+
+---
+
+### 📂 Featured Projects  
+| Project | Description | Tech |
+|----------|--------------|------|
+| [Sales Insights Dashboard](#) | Interactive Power BI dashboard revealing revenue trends | Power BI, SQL |
+| [Customer Churn Prediction](#) | ML model predicting customer retention | Python, Scikit-Learn |
+| [Text Summarizer App](#) | NLP app using transformers to summarize content | Python, Hugging Face |
+
+---
+
+### 📊 GitHub Stats  
+
+![Samad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmdsamadqureshi&show_icons=true&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=mmdsamadqureshi&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mmdsamadqureshi&layout=compact&theme=radical)
+
+---
+
+### 🧩 Tools & Technologies  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 🌐 Connect Wit
