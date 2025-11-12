@@ -6,7 +6,7 @@
 
 # 👋 Hey, I'm **Samad**  
 🎯 *Aspiring Data Analyst & Machine Learning Engineer*  
-💻 Focused on **Data Science**, **ML Models**, and **Generative AI**  
+💻 Focused on **Data Science**, **ML Models**, and **Generative AI**
 
 ---
 
@@ -37,14 +37,6 @@
 | [**Customer Churn Prediction**](#) | ML model predicting customer retention | Python, Scikit-Learn |
 | [**Text Summarizer App**](#) | NLP app using transformers for intelligent text summarization | Python, Hugging Face |
 
----
-
-### 📊 GitHub Analytics  
-
-<! ![Samad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmdsamadqureshi&show_icons=true&theme=neon&hide_border=true&count_private=true)  
-![GitHub Streak](https://streak-stats.demolab.com?user=mmdsamadqureshi&theme=neon-dark&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mmdsamadqureshi&layout=compact&theme=neon&hide_border=true)
-..
 ---
 
 ### 🌐 Connect With Me  
