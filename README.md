@@ -21,16 +21,16 @@
 
 | 💻 Category | 🧩 Tools |
 |:------------|:---------|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-0A66C2?style=for-the-badge&logo=python&logoColor=yellow) ![SQL](https://img.shields.io/badge/SQL-0F9D58?style=for-the-badge&logo=postgresql&logoColor=white) ![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-0A66C2?style=for-the-badge&logo=python&logoColor=yellow) ![SQL](https://img.shields.io/badge/SQL-0F9D58?style=for-the-badge&logo=postgresql&logoColor=white) ![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) |
 | **Libraries** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) |
 | **ML & AI** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) |
 | **Visualization** | ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi) ![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge&logo=plotly&logoColor=white) ![MS Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) |
 | **Tools** | ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) |
 
 ---
-
-### 🚀 Featured Projects  
 <!--
+### 🚀 Featured Projects  
+
 | 📁 Project | 📖 Description | ⚙️ Tech |
 |:-----------|:---------------|:--------|
 | [**Sales Insights Dashboard**](#) | Interactive Power BI dashboard revealing key revenue and customer trends | Power BI, Excel, SQL |
