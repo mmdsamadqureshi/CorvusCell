@@ -30,7 +30,7 @@
 ---
 
 ### 🚀 Featured Projects  
-
+<!
 | 📁 Project | 📖 Description | ⚙️ Tech |
 |:-----------|:---------------|:--------|
 | [**Sales Insights Dashboard**](#) | Interactive Power BI dashboard revealing key revenue and customer trends | Power BI, Excel, SQL |
@@ -42,21 +42,10 @@
 ### 🌐 Connect With Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadsamadqureshi/)  
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/work)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/msqureshi)  
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mmdsamadqureshi@gmail.com)
 
 ---
-<p align="center">
-  <a href="https://www.linkedin.com/in/mmdsamadqureshi/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.kaggle.com/mmdsamadqureshi" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-  </a>
-  <a href="mailto:mmdsamadqureshi@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
 
 ⭐ *“Data tells stories — I translate them into decisions.”*  
 
